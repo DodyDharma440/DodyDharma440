@@ -1,4 +1,7 @@
 - 👋 Hi, my name is I Made Dodi Aditya Ari Dharma
+- 😉 I am 18 years old
+- 🌴 From Karangasem Bali
+- 🎓 High school graduate majoring in computer and network engineering
 - 🌱 I’m currently learning ReactJS and React Native
 
 <!---
