@@ -2,11 +2,14 @@
 
 I am Dodi Aditya
 
-- 🌱 I’m currently learning React.js, Next.js, Remix, JavaScript, TypeScript
+- 💻 I am currently working as Junior Frontend Developer
+- 😉 18 years old
+- 🌴 From Bali, Indonesia
+- 🌱 Currently learning React.js, Next.js, Remix, JavaScript, TypeScript
 
-- 📫 How to reach me: <a href="mailto:dodiaridharma@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dodi-aditya-237154206/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:dodiaridharma@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dodi-aditya-237154206/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## Tech Stack
+## Technologies
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -21,4 +24,4 @@ I am Dodi Aditya
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodyDharma440&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodyDharma440&layout=default)
