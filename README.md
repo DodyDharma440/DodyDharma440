@@ -3,7 +3,7 @@
 I am Dodi Aditya
 
 - 💻 I am currently working as Junior Frontend Developer
-- 😉 18 years old
+- 😉 19 years old
 - 🌴 From Bali, Indonesia
 - 🌱 Currently learning React.js, Next.js, Remix, JavaScript, TypeScript
 
