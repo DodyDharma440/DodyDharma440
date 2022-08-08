@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 I am Dodi Aditya
-
+ 
 - 💻 I am currently working as Junior Frontend Developer
 - 😉 19 years old
 - 🌴 From Bali, Indonesia
