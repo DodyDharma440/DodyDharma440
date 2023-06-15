@@ -29,12 +29,6 @@ My name is Dodi Aditya
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodyDharma440&layout=compact)
 
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DodyDharma440&show_icons=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DodyDharma440&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 
 
 
