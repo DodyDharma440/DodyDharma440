@@ -30,6 +30,7 @@ My name is Dodi Aditya
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodyDharma440&layout=compact&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=DodyDharma440&color=green)
 
 
 
