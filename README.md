@@ -3,13 +3,13 @@
 My name is Dodi Aditya
  
 - 💻 I am currently working as Frontend Developer
-- 😉 20 years old
+- 😉 21 years old
 - 🌴 From Bali, Indonesia
 - 👨🏻‍💻 Currently learning React, Next, JavaScript, TypeScript, Golang, Swift, and Angular
 
 <a href="mailto:dodiaridharma@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/dodi-aditya-237154206/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://dodi-aditya.vercel.app/">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://dodiaditya.my.id">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## Technologies
 
