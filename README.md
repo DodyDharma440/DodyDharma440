@@ -5,11 +5,11 @@ My name is Dodi Aditya
 - 💻 I am currently working as Frontend Developer
 - 😉 21 years old
 - 🌴 From Bali, Indonesia
-- 👨🏻‍💻 Currently learning React, Next, JavaScript, TypeScript, Golang, Swift, and Angular
+- 👨🏻‍💻 Currently learning React, Next.js, JavaScript, TypeScript, Golang, Swift, Angular, and Flutter
 
 <a href="mailto:dodiaridharma@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/dodi-aditya-237154206/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://dodiaditya.my.id">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://dodi-aditya-terminal.vercel.app">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## Technologies
 
@@ -26,6 +26,8 @@ My name is Dodi Aditya
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-D61916?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodyDharma440&layout=compact&theme=dark)
