@@ -3,7 +3,7 @@
 My name is Dodi Aditya
  
 - 💻 I am currently working as Frontend Developer
-- 😉 21 years old
+- 😉 22 years old
 - 🌴 From Bali, Indonesia
 - 👨🏻‍💻 Currently learning React, Next.js, JavaScript, TypeScript, Golang, Swift, Angular, and Flutter
 
